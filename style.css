@@ -1,0 +1,86 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-family: "Kumbh Sans", sans-serif;
+  font-weight: 400;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+}
+
+a:visited {
+  color: black;
+}
+
+#bg-image img {
+  position: absolute;
+  background-size: cover;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+}
+
+.age,
+.location,
+.icons {
+  color: hsl(227, 10%, 46%);
+}
+
+.name-age {
+    margin-top: 15px;
+    font-size: 20px;
+}
+
+.name-age,
+.social-media {
+  font-weight: 700;
+}
+
+.location {
+  font-size: small;
+  position: relative;
+  width: 50%;
+  left: 25%;
+  margin-top: 30px;
+  margin-bottom: 15px;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 8%;
+}
+
+.card {
+  text-align: center;
+  width: 300px;
+  background-color: white;
+  border-radius: 3%;
+  padding-top: 40px;
+  padding-bottom: 25px;
+}
+
+.card img {
+  border-radius: 50%;
+}
+
+#github,
+#linkedin,
+#email {
+  display: inline-block;
+  padding: 15px;
+}
+
+#github p,
+#linkedin p,
+#email p {
+  padding-bottom: 10px;
+}
