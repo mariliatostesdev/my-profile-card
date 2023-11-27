@@ -14,7 +14,7 @@ Este projeto representa um perfil pessoal fictício, destacando informações so
 
 ## Preview e Acesso à Página
 ![image](https://github.com/mariliatostesdev/my-profile-card/assets/133540781/030891ce-8e09-4aa3-85ae-aa91232f9ea1)
-Acesso à página: [Marília Tostes - Profile Card](#)
+Acesso à página: [Marília Tostes - Profile Card](https://mariliatostesdev.github.io/my-profile-card/)
 
 ## Tecnologias Utilizadas:
 - HTML
